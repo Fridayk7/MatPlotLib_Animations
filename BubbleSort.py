@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import random
-fig, ax=plt.subplots()
 
 def bubbleSort(arr):
     plt.bar(x, arr, label="MyBar", color='blue')
